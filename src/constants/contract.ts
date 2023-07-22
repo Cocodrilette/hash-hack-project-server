@@ -1,5 +1,5 @@
 export const contractConstants = {
-  address: "0x69F5795EE98b8624CBa7fe32c7dC54E7508eB2C9",
+  address: "0xA09FdA0FD1fB55757a76385A4CA700F216327B87",
   abi: [
     {
       inputs: [],
